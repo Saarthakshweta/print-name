@@ -1,0 +1,9 @@
+//program to print name
+#include<stdio.h>
+void main()
+{
+    printf("Saarthak Moghe and Shweta Ranjan");
+    
+    
+}    
+    
